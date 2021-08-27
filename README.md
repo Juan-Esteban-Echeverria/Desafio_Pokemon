@@ -8,7 +8,7 @@ Pokémon Edición Roja y Pokémon Edición Azul (en inglés: Pokémon Red Versio
 
 ## Introducción
 
-Son dos videojuegos de rol _desarrollados por Game Freak_ y publicados por **_Nintendo para su consola portátil Game Boy_**. Son las primeras entregas de la serie de videojuegos de la franquicia Pokémon.
+Son dos *videojuegos* de rol _desarrollados por Game Freak_ y publicados por **_Nintendo para su consola portátil Game Boy_**. Son las primeras entregas de la serie de videojuegos de la franquicia Pokémon.
 
 Los videojuegos fueron lanzados a la venta por primera vez en Japón, durante 1996, y en Estados Unidos, Europa y Australia casi tres años después.
 
