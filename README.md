@@ -1,4 +1,4 @@
-# Pokemón rojo y Pokemón azul
+# Pokémon rojo y Pokémon azul
 
 Pokémon Edición Roja y Pokémon Edición Azul (en inglés: Pokémon Red Version & Pokémon Blue Version)
 
